@@ -1,0 +1,34 @@
+body
+{
+background-color: #833099;
+}
+#container
+{
+  display: flex;
+  justify-content: center;
+}
+h1
+{
+  font-family: 'Segoe UI Historic', monospace;
+  color : #1ed64f;
+  font-size : 50px;
+  text-align: center;
+}
+h2
+{
+  font-family: 'Segoe UI Historic', monospace;
+    color : #1ed64f;
+  font-size : 30px;
+margin : 0px 140px 0px 140px;
+}
+.cube
+{
+  background-color : #ffad00;
+  height : 300px;
+  width : 300px;
+  border-radius : 50px;
+  top : 10%;
+  margin-top : 5%;
+  margin-bottom : 5%;
+  margin: 50px;
+}
